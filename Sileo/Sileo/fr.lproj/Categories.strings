@@ -3,19 +3,20 @@
   Sileo
 
   Created by AppleBetas on 2018-12-28.
+  French translation corrected by BlackGunZ on 2020-07-09.
   Copyright © 2018 CoolStar. All rights reserved.
  
  BASE (English) LOCALISATIONS
 */
 
-"No_Category" = "(Aucune Catégorie)";
+"No_Category" = "(Aucune catégorie)";
 "Tweaks" = "Modifications";
 "Themes" = "Thèmes";
 "Utilities" = "Outils";
 "Applications" = "Applications";
-"Addons" = "Ajouts";
+"Addons" = "Extensions";
 "Games" = "Jeux";
-"Developer" = "Dévelopeur";
-"Data_Storage" = "Hébergement de Données";
-"Terminal_Support" = "Support de Terminal";
-"Text_Editors" = "Éditeurs de Texte";
+"Developer" = "Développeur";
+"Data_Storage" = "Stockage";
+"Terminal_Support" = "Compatibilité avec le Terminal";
+"Text_Editors" = "Éditeurs de texte";
